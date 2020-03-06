@@ -1,0 +1,9 @@
+git init
+
+git add --all
+
+git commit -m ""
+
+git remote add origin https://github.com/'ユーザID'/'リポジトリ名'.git
+
+git push -u origin master
