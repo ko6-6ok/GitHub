@@ -1,9 +1,9 @@
-git init
+Make Repository on GitHub
+
+git clone https://github.com/'ID'/'Repository Name'.git
 
 git add --all
 
 git commit -m ""
 
-git remote add origin https://github.com/'ユーザID'/'リポジトリ名'.git
-
-git push -u origin master
+git push origin master
