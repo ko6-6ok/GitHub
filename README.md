@@ -1,1 +1,2 @@
 # GitHub
+how to use
