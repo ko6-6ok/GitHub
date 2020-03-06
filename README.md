@@ -1,2 +1,2 @@
 # GitHub
-how to use
+how to use GitHub
