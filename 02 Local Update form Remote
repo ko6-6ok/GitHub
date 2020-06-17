@@ -3,4 +3,4 @@
 git fetch
 
 ブランチをマージする。ローカルブランチが最新のものに更新される。
-git merge　ブランチ名　例：origin/master
+git merge　ブランチ名　例：origin master
